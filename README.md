@@ -15,5 +15,3 @@ Feel free to check out the repository for code and analysis related to the asses
 
 For any queries or clarifications, feel free to reach out.
 
----
-📝 **Note:** The Google Drive links will be updated as needed.
