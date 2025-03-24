@@ -1,0 +1,9 @@
+n,parallel_threads,dist,avg_time,failed_tests,speedup
+1,1,load,7.08,[],1.0
+1,1,no,7.58,[],0.9340369393139841
+1,auto,load,85.51,"['tests/test_compression.py', 'tests/test_linkedlist.py', 'tests/test_heap.py']",0.0827973336451877
+1,auto,no,129.58,"['tests/test_compression.py', 'tests/test_linkedlist.py', 'tests/test_heap.py']",0.0546380614292329
+auto,1,load,9.57,[],0.7398119122257053
+auto,1,no,9.43,[],0.750795334040297
+auto,auto,load,103.98,"['tests/test_compression.py', 'tests/test_linkedlist.py', 'tests/test_heap.py']",0.06809001731102135
+auto,auto,no,92.47,"['tests/test_compression.py', 'tests/test_linkedlist.py', 'tests/test_heap.py']",0.07656537255326051

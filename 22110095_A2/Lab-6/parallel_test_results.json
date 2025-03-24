@@ -1,0 +1,74 @@
+[
+    {
+        "n": "1",
+        "parallel_threads": "1",
+        "dist": "load",
+        "avg_time": 7.08,
+        "failed_tests": []
+    },
+    {
+        "n": "1",
+        "parallel_threads": "1",
+        "dist": "no",
+        "avg_time": 7.58,
+        "failed_tests": []
+    },
+    {
+        "n": "1",
+        "parallel_threads": "auto",
+        "dist": "load",
+        "avg_time": 85.51,
+        "failed_tests": [
+            "tests/test_compression.py",
+            "tests/test_linkedlist.py",
+            "tests/test_heap.py"
+        ]
+    },
+    {
+        "n": "1",
+        "parallel_threads": "auto",
+        "dist": "no",
+        "avg_time": 129.58,
+        "failed_tests": [
+            "tests/test_compression.py",
+            "tests/test_linkedlist.py",
+            "tests/test_heap.py"
+        ]
+    },
+    {
+        "n": "auto",
+        "parallel_threads": "1",
+        "dist": "load",
+        "avg_time": 9.57,
+        "failed_tests": []
+    },
+    {
+        "n": "auto",
+        "parallel_threads": "1",
+        "dist": "no",
+        "avg_time": 9.43,
+        "failed_tests": []
+    },
+    {
+        "n": "auto",
+        "parallel_threads": "auto",
+        "dist": "load",
+        "avg_time": 103.98,
+        "failed_tests": [
+            "tests/test_compression.py",
+            "tests/test_linkedlist.py",
+            "tests/test_heap.py"
+        ]
+    },
+    {
+        "n": "auto",
+        "parallel_threads": "auto",
+        "dist": "no",
+        "avg_time": 92.47,
+        "failed_tests": [
+            "tests/test_compression.py",
+            "tests/test_linkedlist.py",
+            "tests/test_heap.py"
+        ]
+    }
+]

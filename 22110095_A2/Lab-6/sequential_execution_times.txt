@@ -1,0 +1,8 @@
+Sequential Execution Times:
+Run 1: 7.01 seconds
+Run 2: 6.93 seconds
+Run 3: 7.06 seconds
+Run 4: 6.90 seconds
+Run 5: 6.91 seconds
+
+Average Sequential Execution Time (Tseq): 6.96 seconds

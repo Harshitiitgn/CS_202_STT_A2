@@ -1,0 +1,900 @@
+Commit: 07c8f19bfd6128c7cbb9c61c41b43a9eeca1b435
+  High Confidence Issues: 3354
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3307
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: 0e59442f6cce9442c1dcaf8515df7182312fa6cd
+  High Confidence Issues: 3353
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 26
+  Medium Severity Issues: 55
+  Low Severity Issues: 3307
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: 0f2ae2b9330604247f553f41d310e7c0191275ef
+  High Confidence Issues: 3354
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3307
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: 111e5bd3129deee54ff62b0d13ed7e5739c27108
+  High Confidence Issues: 3355
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3308
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: 176fdfa0002360670f698d3828cfff11f97349f0
+  High Confidence Issues: 3354
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3307
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: 18ffe1eaf6c2eeffc898f4e8a590c062c40b30dc
+  High Confidence Issues: 3378
+  Medium Confidence Issues: 35
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3332
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: 19610a9e46e0989054ecd0f6be2fcb981013d8eb
+  High Confidence Issues: 3354
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3307
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: 1af8f95785b85d0937153ee63d504c0b51934d80
+  High Confidence Issues: 3353
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 26
+  Medium Severity Issues: 55
+  Low Severity Issues: 3307
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: 1d610e44b396d11113bb6a5d168cc5e996a6dfb9
+  High Confidence Issues: 3355
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3308
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: 224c639bf9f37b99bc66a879fbbc516f59857967
+  High Confidence Issues: 3354
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3307
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: 227838c4727ba780e6fb4a7c372ae62357cac4c6
+  High Confidence Issues: 3355
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3308
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: 273123f6b8fc0d871553f707e515816777c60e24
+  High Confidence Issues: 3354
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3307
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: 28d5a4d71824ff5823ae310e3fd014b48b33d583
+  High Confidence Issues: 3355
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3308
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: 29a94bd102805eafcea94a185808cd878cd3f5ad
+  High Confidence Issues: 3354
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3307
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: 2c3160304278d323da8485057770926d1b582579
+  High Confidence Issues: 3369
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3322
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: 2c5d652493b79eecadd4407f24f2249948bd6ff2
+  High Confidence Issues: 3354
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3307
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: 2d31dce8262a68875c177645fa0c7585a45ac447
+  High Confidence Issues: 3354
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3307
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: 2fec0b206c6e83ea813ab26597e15c96fab08be7
+  High Confidence Issues: 3355
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3308
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: 3207af8827d4162ef5841249c46fbb9da043c551
+  High Confidence Issues: 3352
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 26
+  Medium Severity Issues: 55
+  Low Severity Issues: 3306
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: 321bd74b954156553db3dca8f43b45cdd5a88f76
+  High Confidence Issues: 3354
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3307
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: 326ad3f43c63f84a69d6d08af276cbdf653efc51
+  High Confidence Issues: 3355
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3308
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: 346d1abaff0270104ffa3a0e8bee7de279a1cee7
+  High Confidence Issues: 3354
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3307
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: 39e7208366bcf549fd7a2678a6d815dfe39196c5
+  High Confidence Issues: 3355
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3308
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: 3d357273b50ed9c8ca660f60fde255c26ff7a228
+  High Confidence Issues: 3354
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3307
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: 40b78fa2ea9095197608287de9f0d902d2763b00
+  High Confidence Issues: 3354
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3307
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: 470e2b8d17fd0032271b21f1d6775d48c3855a79
+  High Confidence Issues: 3372
+  Medium Confidence Issues: 35
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3326
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: 484a7cc9a7ba2540ab2af5141196f5ab5809df33
+  High Confidence Issues: 3352
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 26
+  Medium Severity Issues: 55
+  Low Severity Issues: 3306
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: 4995a775df21a206b529403bc30d71795a994fd4
+  High Confidence Issues: 3375
+  Medium Confidence Issues: 35
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3329
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: 4a1766c252bac0de1368cc4eaefba1299f77d546
+  High Confidence Issues: 3354
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3307
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: 4e894892bc0230c46e998b6ea82b5b07b9943a39
+  High Confidence Issues: 3354
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3307
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: 4f7156f2c3271613b34d04040b502b9d7ae35eb9
+  High Confidence Issues: 3378
+  Medium Confidence Issues: 35
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3332
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: 4fe0aebab79a092615f5f86a24b91bac07fb2ef2
+  High Confidence Issues: 3355
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3308
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: 4fec712f329ceecd38729af6404a2c32aed83648
+  High Confidence Issues: 3378
+  Medium Confidence Issues: 35
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3332
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: 52ccd66735ba1f6e67d06e747d6a641980b788a3
+  High Confidence Issues: 3354
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3307
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: 54c3f87af9f6c0d6622cec2c3d9695b0229fb8fa
+  High Confidence Issues: 3378
+  Medium Confidence Issues: 35
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3332
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: 5b525e97970b1b9706b4415de79abfe33e5955fc
+  High Confidence Issues: 3378
+  Medium Confidence Issues: 35
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3332
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: 5e059be1b327f2f2f64115d2897c5864eff69b7d
+  High Confidence Issues: 3352
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 26
+  Medium Severity Issues: 55
+  Low Severity Issues: 3306
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: 5e8cb740187c0561b36323dfc8510e58c3066838
+  High Confidence Issues: 3355
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3308
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: 5fcc999b7df0f5cc71cfd9b74ea494b96486f84f
+  High Confidence Issues: 3352
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 26
+  Medium Severity Issues: 55
+  Low Severity Issues: 3306
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: 5fdce4c331ac530280cc941179d364a07f4a1088
+  High Confidence Issues: 3354
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3307
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: 60a11a730e8aa2450115385798ab8710804c6409
+  High Confidence Issues: 3378
+  Medium Confidence Issues: 35
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3332
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: 6748a09341deeac16acb33996df95a31fae0c545
+  High Confidence Issues: 3378
+  Medium Confidence Issues: 35
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3332
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: 6b361ce06b08454329286214072139228e8c2f33
+  High Confidence Issues: 3378
+  Medium Confidence Issues: 35
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3332
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: 6c44dd4bb8e4f2ca5f135f172de4725b2cada155
+  High Confidence Issues: 3354
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3307
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: 70602a196a6da90eb0d34cdfe5d4d16a99606279
+  High Confidence Issues: 3378
+  Medium Confidence Issues: 35
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3332
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: 7320e311a0a3f190351173f8be90cab31dadbf73
+  High Confidence Issues: 3353
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 26
+  Medium Severity Issues: 55
+  Low Severity Issues: 3307
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: 74721b48f0347f19f134f386fab3421e5132fb53
+  High Confidence Issues: 3354
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3307
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: 7621b3d96ac2d53846c4df211bc05c5e13420028
+  High Confidence Issues: 3354
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3307
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: 767ad19b10c64af1fa328383713ea97e23cc0080
+  High Confidence Issues: 3354
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3307
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: 81b3c85f51834a06bc8fbecf350bc20d756d8026
+  High Confidence Issues: 3352
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 26
+  Medium Severity Issues: 55
+  Low Severity Issues: 3306
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: 823e279e0dd40d8818a8d58c12a7df22caae1c04
+  High Confidence Issues: 3354
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3307
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: 860a25c390eba8e6c089a818b02800dd9d789864
+  High Confidence Issues: 3354
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3307
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: 87d5f5b9a9697434e6d972b021201105eabb54e6
+  High Confidence Issues: 3353
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 26
+  Medium Severity Issues: 55
+  Low Severity Issues: 3307
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: 8aa161a43731795841fa2678d3dff0559cee527e
+  High Confidence Issues: 3354
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3307
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: 8f2bc008ad724a52f3669ecb2de59c98deb69ce1
+  High Confidence Issues: 3354
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3307
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: 8f37c82f6144fffc2ed30e49ee81a54702a0f317
+  High Confidence Issues: 3355
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3308
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: 9101439d7b7e21d5cf8a4a2a3dc92b9980539c6b
+  High Confidence Issues: 3354
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3307
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: 959052fb8d49c4473f6d8a928d745ae7c38c7e95
+  High Confidence Issues: 3378
+  Medium Confidence Issues: 35
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3332
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: 96800fb673cb7b2d75476096798e701e3e6d26bc
+  High Confidence Issues: 3354
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3307
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: 98ae71897600a3162f529b1b30c70b8abdf0961b
+  High Confidence Issues: 3354
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3307
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: 9e831e915fa875423af0c0de8f53a3780055919e
+  High Confidence Issues: 3355
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3308
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: 9efc1ebeeb431769897798cdf8de2c67dcbbc9c0
+  High Confidence Issues: 3369
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3322
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: a363642a32880114c7944b1017f2f69bd4cc00eb
+  High Confidence Issues: 3354
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3307
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: a4bada52d0c5442011665eb1ad4bdb61c06d28fe
+  High Confidence Issues: 3352
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 26
+  Medium Severity Issues: 55
+  Low Severity Issues: 3306
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: a936b0c610ba86f542eb3855de2be674a7b9310b
+  High Confidence Issues: 3354
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3307
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: a9b99b3489cc24b5bed99fbadbd91f598a5a1420
+  High Confidence Issues: 3354
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3307
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: ab8149664182b662453a563161aa89013c806dc9
+  High Confidence Issues: 3378
+  Medium Confidence Issues: 35
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3332
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: ad36383951c130f16e02b5f61b1161da99bc1ca4
+  High Confidence Issues: 3353
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 26
+  Medium Severity Issues: 55
+  Low Severity Issues: 3307
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: adb7dd99c295a28726c8d818fba54c7b3f958ecc
+  High Confidence Issues: 3354
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3307
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: b337d210583a3f5f84d0f70b56ae9a82b029dab5
+  High Confidence Issues: 3354
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3307
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: b394a994e6d632643d0061e0e67772f076925951
+  High Confidence Issues: 3378
+  Medium Confidence Issues: 35
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3332
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: b7278186c4e16c58a4dbd439eedf716146c19f53
+  High Confidence Issues: 3354
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3307
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: be508c618411d72281672980abb19b2150581943
+  High Confidence Issues: 3353
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 26
+  Medium Severity Issues: 55
+  Low Severity Issues: 3307
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: c12a5d874c5a014495eb2db8a73f40037bc813ac
+  High Confidence Issues: 3354
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3307
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: c5a5576522273ff028018c4e13d1fc4d0260495b
+  High Confidence Issues: 3355
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3308
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: c77b099cbb979269d45df06753cadd8abc662e23
+  High Confidence Issues: 3354
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3307
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: c7a53888a1a514619b0611fd8b7928592f4ed612
+  High Confidence Issues: 3367
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3320
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: c7da8c2aa3a923fc620ad480a8831a8a0f21ab37
+  High Confidence Issues: 3354
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3307
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: ccf125bf30102beedafb3ecef72376bfb6c90a4d
+  High Confidence Issues: 3354
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3307
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: d2030595dcdc8ca5701504f00255360fb12a3a2b
+  High Confidence Issues: 3353
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 26
+  Medium Severity Issues: 55
+  Low Severity Issues: 3307
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: d22bfcd4cfe3b93daddfce8521f77447ca8d6b84
+  High Confidence Issues: 3378
+  Medium Confidence Issues: 35
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3332
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: d718ecf6d3dfc4656d262154c59672437c1ea075
+  High Confidence Issues: 3354
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3307
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: da3a0ddfe2de5be718a2d7cb3021f350bf04c402
+  High Confidence Issues: 3352
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 26
+  Medium Severity Issues: 55
+  Low Severity Issues: 3306
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: db0fe9436e9da7f7bd14683542bbf33ba3c6d5e4
+  High Confidence Issues: 3354
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3307
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: db461112c70d5f2bf93c7a6ac27eeb665c232dd0
+  High Confidence Issues: 3354
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3307
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: db49548d7168bba319fdba400bc201528cb1d3cd
+  High Confidence Issues: 3355
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3308
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: dcbe86bd1577bad9a1356acca5fced7d3fb3a0c3
+  High Confidence Issues: 3378
+  Medium Confidence Issues: 35
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3332
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: df201ed152b61c439ea1ace179f35b424594ba6c
+  High Confidence Issues: 3354
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3307
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: dffe3034825edc4f84aded013fc9c6590e545ed5
+  High Confidence Issues: 3355
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3308
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: e13373f838ab34027c5a80e16a6cb8262d41eab7
+  High Confidence Issues: 3372
+  Medium Confidence Issues: 35
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3326
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: e165f3aef4dbede5d7e3f71c336c89a268753ae9
+  High Confidence Issues: 3354
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3307
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: e3535f99717bdf3882c0b48bff3e3eb244454e34
+  High Confidence Issues: 3354
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3307
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: e63ead4208c1e56723532878728ef9c2eb197b01
+  High Confidence Issues: 3354
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3307
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: eb1182a10e757b5e76009c69fdf3a88a5afc6840
+  High Confidence Issues: 3354
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3307
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: ecc057dd4857e655f0844b781899a917852042a4
+  High Confidence Issues: 3352
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 26
+  Medium Severity Issues: 55
+  Low Severity Issues: 3306
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: f49dbfd3e451006a485e81ebce030495131c4454
+  High Confidence Issues: 3378
+  Medium Confidence Issues: 35
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3332
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: f567ab90681235f38bdeaeda004d89e85b8627d9
+  High Confidence Issues: 3354
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3307
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: f622b1cadea2bed4ea4cc476695e9c181ec5da11
+  High Confidence Issues: 3352
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 26
+  Medium Severity Issues: 55
+  Low Severity Issues: 3306
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: f93dd6e826a9bf00bf9e08d9bb3a03abcb1e974c
+  High Confidence Issues: 3355
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3308
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
+Commit: f958b6500b2aeb8edc578a07f00546becdad4c80
+  High Confidence Issues: 3354
+  Medium Confidence Issues: 34
+  Low Confidence Issues: 1
+  High Severity Issues: 27
+  Medium Severity Issues: 55
+  Low Severity Issues: 3307
+  Unique CWEs: CWE-78, CWE-703, CWE-259, CWE-732, CWE-327, CWE-330, CWE-377, CWE-20, CWE-838, CWE-502, CWE-94, CWE-22, CWE-79
+--------------------------------------------------
